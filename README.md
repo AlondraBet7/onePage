@@ -1,2 +1,2 @@
 # onePage
-onePageVenta
+Prueba piloto de CRAFT CMS
